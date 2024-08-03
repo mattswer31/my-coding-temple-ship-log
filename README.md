@@ -1,1 +1,3 @@
-first commit
+# my-coding-temple-ship-log
+
+lorem ipsum
