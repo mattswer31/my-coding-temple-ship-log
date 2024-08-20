@@ -22,6 +22,7 @@ C. Variable naming conventions
         - must start with letter or _ , no numbers
         - the name can only contain alpha-numeric chas and _
         - case sensitive
+        - x, X, lowercase, lower_score, UPPER, UPPER_SCORE, CamCase, mixedCase, Cap_Score_Ugly
     b. identify a list of reserved keywords that cant be used as variable names
         - and or not if elif else for while break as def lambda pass
           return True False try width assert class continue del except
