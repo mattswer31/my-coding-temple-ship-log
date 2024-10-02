@@ -1,9 +1,0 @@
-#1. Naming Convention Challenge: Create a variable that holds your full name.
-full_name = "Matt Song"
-
-#2. case sensitivity quiz: define myName and myname. assign first name to myName and last to myname
-myName = "Matt"
-myname = "Song"
-
-#3. assignment practice: assign color to variable fav_color
-fav_color = 
