@@ -42,7 +42,10 @@ def ecommerce_cart(cart):
 # 9. type inspection challenge
 def inspect(list):
     for i in range(len(list)):
-        print(f"{list[i]} is a/an {type(list[i])}")
+        print(f"{list[i]} is a {type(list[i])}")
+
+# 10. math function marathon
+
 
 
 sample_cart = ["apples", 2.02, "oranges", 3.03, "bread", 2.57, "steak", 7.52]
