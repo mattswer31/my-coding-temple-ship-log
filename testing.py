@@ -1,12 +1,10 @@
-review = "this thing is great! loved it."
+# kitchen = {"Spoons" : "top drawer",
+#            "plates" : "middle shelf"}
+# copy_kitchen = kitchen.copy()
+# test = kitchen
 
-new = []
-new += review.split(' ')
-keywords = ["great", "love"]
-for i in new:
-    for j in range(len(keywords)):
-        if keywords[j] in i:
-            new[new.index(i)] = i.upper()
-
-converted = " ".join(new)
-print(converted)
+# copy_kitchen["Spoons"] = "bottom drawer"
+# test["plates"] = "bottom shelf"
+# print(kitchen)
+# print(copy_kitchen)
+# print(test)
